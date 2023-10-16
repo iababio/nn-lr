@@ -91,8 +91,6 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import MinMaxScaler
 from pathlib import Path
 import requests
-
-
 # %matplotlib inline
 
 
